@@ -80,5 +80,8 @@ The main goal of this repository is:
 - Improve coding logic
 - Practice C++ programming concepts
 - Prepare for coding interviews
+
+
+~THANK YOU 
 - Build a strong DSA foundation
 - Track my learning progress
